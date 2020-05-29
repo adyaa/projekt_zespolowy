@@ -926,10 +926,7 @@ body{
     color: #7b7b7b;
     font-size: 16px;
     margin: 80px 0 0 0;
-    background: #202422;
-    background: -moz-linear-gradient(left, #202422 0%, #202422 50%, #282c2a 50%, #282c2a 100%);
-    background: -webkit-linear-gradient(left, #202422 0%,#202422 50%,#282c2a 50%,#282c2a 100%);
-    background: linear-gradient(to right, #202422 0%,#202422 50%,#282c2a 50%,#282c2a 100%);
+    background: #0f0c2b;
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#202422', endColorstr='#282c2a',GradientType=1 );
 }
 
@@ -963,7 +960,7 @@ body{
 
 .green-bg-color{
     padding: 45px 0 45px 50px !important;
-    background-color: #282c2a;
+    background-color: #0f0c2b;
 }
 
 .green-bg-color ul{
@@ -995,7 +992,7 @@ body{
 
 .newsletter input{
     border: 0;
-    background-color: #191c1a;
+    background-color: #0b091e;
     color: #414743;
     font-size: 14px;
     height: 40px;
@@ -1029,7 +1026,7 @@ body{
 }
 
 .footer-social-icons li a{
-    background-color: #191c1a;
+    background-color: #0b091e;
     color: #5f5f5f;
     font-size: 20px;
     width: 40px;
@@ -1046,7 +1043,7 @@ body{
 
 .copyrights{
     font-size: 14px;
-    color: #3c3c3c;
+    color: #0f0c2b;
     padding: 30px;
 }
 
@@ -1181,7 +1178,7 @@ body{
     }
 
     .store-info-links-bg{
-        background: #202422 !important;
+        background: #0f0c2b !important;
     }
 
     .footer-social-icons{
