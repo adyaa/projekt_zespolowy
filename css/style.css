@@ -11,11 +11,11 @@ body{
 }
 
 .purple-bg{
-    background-image: url(../images/brown_bg.jpg);
+    background-image: url(../images/style/blue_bg.png);
 }
 
 .header-bg{
-    background: url(../images/header_bg.jpg);
+    background: url(../images/style/header2.png);
     background-position: top center;
 }
 
